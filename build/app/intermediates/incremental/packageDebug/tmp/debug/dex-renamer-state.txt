@@ -1,0 +1,4 @@
+#Sun Nov 12 11:27:22 SAST 2023
+base.0=/home/nicodemus/Desktop/chef/flutter/practice/myFirstFlutterApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
